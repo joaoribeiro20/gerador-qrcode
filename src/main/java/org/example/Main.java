@@ -38,10 +38,10 @@ public class Main {
     {
 
         // The data that the QR code will contain
-        String data = "https://github.com/joaoribeiro20";
+        String data = "https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository";
 
         // The path where the image will get saved
-        String path = "meugithub.png";
+        String path = "teste.png";
 
         // Encoding charset
         String charset = "UTF-8";
